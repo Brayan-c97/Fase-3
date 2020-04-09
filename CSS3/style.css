@@ -1,0 +1,90 @@
+nav,header,.Seccion1,.Seccion2,.Seccion3,footer{
+    max-width: 95%;
+    margin: auto;
+}
+nav{
+   color: black;
+   text-align: left;
+}
+
+.titulop{
+    text-align: center;
+    font-size: 150%;
+    margin-left:35px;
+    margin-right: 0px;
+    margin: -70px 200px;
+}
+.subt{
+    text-align: center;
+    font-size: 100%;
+    margin-left:35px;
+    margin-right: 0px;
+    margin: 70px 200px;
+}
+
+body{
+    background-color: rgb(236, 236, 255);
+}
+/*.menu li{
+    display: inline-block;
+}*/
+.Seccion2{
+    text-align: center;
+    margin: -620px 450px;
+    background-color: rgb(215, 216, 255);
+}
+.Seccion1{
+    text-align: center;
+    margin-left:35px;
+    margin-right: 0px;
+    margin: -155px 35px ;
+background-color: rgb(215, 216, 255);
+}
+.Seccion1,.Seccion2,.Seccion3{
+    width: 30%;
+    height: 600px;
+}
+.Seccion3{
+    text-align: center;
+    margin: 20px 880px;
+    background-color: rgb(215, 216, 255);
+}
+.ListaDesplegable{
+    display: none;
+    position: absolute;
+}
+li a,boton{
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding: 0.9em 1em;
+}
+.ListaDesplegable a{
+    color: black;
+    display: block;
+    text-align: center;
+}
+.boton:hover .ListaDesplegable{
+display: block;
+}
+li a:hover{
+    background-color: rgb(59, 59, 85);
+}
+.imagend{
+    display: block;
+    height: 100px;
+    margin: -150px 850px;
+}
+.imageni{
+    height: 100px;
+}
+.intro{
+    text-align: left;
+    margin: 200px 30px; 
+}
+footer{
+    text-align: center;
+    background-color: rgb(187, 187, 255);
+}
+
