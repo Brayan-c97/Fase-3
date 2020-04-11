@@ -21,13 +21,28 @@ nav{
     margin-right: 0px;
     margin: 70px 200px;
 }
-
+.conceptos{
+    font-size: 13.5px;
+    text-align: left;
+}
+.tipos {
+    font-size: 17px;
+    text-align: left;
+}
 body{
     background-color: rgb(236, 236, 255);
 }
-/*.menu li{
-    display: inline-block;
-}*/
+.url{
+    font-size: 3px;
+}
+.virus{
+    font-size: 12px;
+    text-align: left;
+}
+.ataques{
+    text-align: left;
+    font-size: 14.5px;
+    }
 .Seccion2{
     text-align: center;
     margin: -620px 450px;
@@ -78,6 +93,37 @@ li a:hover{
 }
 .imageni{
     height: 100px;
+}
+.act1{
+    display: block;
+    height: 200px;
+    margin: 20px 25px;
+}
+.act2{
+    display: block;
+    height: 200px;
+    margin: 20px 25px;
+}
+.act3{
+    display: block;
+    height: 300px;
+    width: 350px;
+    margin: 20px 25px;
+}
+.act4{
+    display: block;
+    height: 300px;
+    width: 350px;
+    margin: 20px 25px;
+}
+.act5{
+    display: block;
+    height: 300px;
+    width: 350px;
+    margin: 20px 25px;
+}
+.link  {
+    font-size: 40px;
 }
 .intro{
     text-align: left;
